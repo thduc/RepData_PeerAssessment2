@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/96096/bc74b30bc363407f83fe1333c45121e9
+url: http://rpubs.com/thduc/96096
+when: 1437925575.77014
